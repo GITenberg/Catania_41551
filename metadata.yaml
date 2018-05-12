@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31124
     wikipedia: http://it.wikipedia.org/wiki/Federico_De_Roberto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41551#Catania
 gutenberg_bookshelf: IT Geografia
 gutenberg_issued: '2012-12-04'
 gutenberg_type: Text
